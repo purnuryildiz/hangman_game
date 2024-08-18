@@ -24,4 +24,4 @@
 
 <h2>Preview:</h2>
 
-![](video.mp4)
+![](image.gif)
